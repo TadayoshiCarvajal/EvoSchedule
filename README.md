@@ -1,6 +1,6 @@
 # EvoSchedule
 
-![evolution graph](../resources/evolution_graph.PNG)
+![evolution graph](evoschedule/resources/evolution_graph.PNG)
 
 **EvoSchedule** (aka evoschedule)  is an open source event-scheduling tool. It enables the user to create tasks along with preferences of when those tasks are best completed. Then a genetic scheduling algorithm is applied to "evolve" better and better schedules. The "fitness" of each evolved schedule is tested against the theoretical limit, produced by the **Hungarian Algorithm**. This software was developed as part of an Independent Study I took with Professor Amy Hoover at the **New Jersey Institute of Technology**.
 

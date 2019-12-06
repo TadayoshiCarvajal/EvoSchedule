@@ -105,7 +105,7 @@ First, we must obtain a `credentials.json` file for `Google Calendar API`. This 
 
 Scroll down, until you see:
 
-![credentials.json](../resources/credentials_instructions.PNG)
+![credentials.json](../resources/credentials_instruction.PNG)
 
 Click on `Enable the Google Calendar API` and download the `credentials.json` file. Move/Copy `credentials.json` into the `credentials` directory inside of the `EvoSchedule/evoschedule/app` project directory.
 
